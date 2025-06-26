@@ -1,15 +1,15 @@
 ## Hi, I'm Abhishek Mittal 👋
 <b>I am Computer Science Engineering Student.</b>
 
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=erabhishekmittal.erabhishekmittal)
-![GitHub followers](https://img.shields.io/github/followers/erabhishekmittal)
-![GitHub User's stars](https://img.shields.io/github/stars/erabhishekmittal)
+![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekmittall.abhishekmittall)
+![GitHub followers](https://img.shields.io/github/followers/abhishekmittall)
+![GitHub User's stars](https://img.shields.io/github/stars/abhishekmittall)
 
 - 👋 Hi, I'm Abhishek Mittal.
 - 🌱 I am still learning.
 - 💻 **Programming -** I used to work on C, C++ and Python.
 - 👨‍💻 **Web Development -** 
-- **Front-end Technology** - HTML, CSS, JavaScript, Bootstrap, jQuery (JavaScript Library for GUI - React.js)
+- **Front-end Technology** - HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, jQuery (JavaScript Library for GUI - React.js)
 - **Back-end Technology** - Node.js, Express.js.
 - **Database** - mongoDB, MySQL.
 - 🥅 Future goals: Contribute more to Open Source projects.
@@ -45,14 +45,13 @@ I've all abilities and thinking to produce software that meets all goals and obj
 
 ### ⚙️ GitHub Analytics
 
-![Abhishek Mittal's Stats](https://github-readme-stats.vercel.app/api?username=erabhishekmittal&show_icons=true&theme=light)
-![Abhishek Mittal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erabhishekmittal)
+![Abhishek Mittal's Stats](https://github-readme-stats.vercel.app/api?username=abhishekmittall&show_icons=true&theme=light)
+![Abhishek Mittal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmittall)
 
 ### My Contacts
-**Gmail:** Abhishekbxn@gmail.com , Abhishekmittal.cse23@jecrc.ac.in
+**Gmail:** Abhishekbxn@gmail.com
 
 [![Gmail Badge](https://img.shields.io/badge/-Abhishekbxn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekbxn@gmail.com)](mailto:Abhishekbxn@gmail.com)&emsp;
-[![Gmail Badge](https://img.shields.io/badge/-Abhishekmittal.cse23@jecrc.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekmittal.cse23@jecrc.ac.in)](mailto:Abhishekmittal.cse23@jecrc.ac.in)&emsp;
 
 ### Contact Me
 <p align = "center">
@@ -84,5 +83,5 @@ I've all abilities and thinking to produce software that meets all goals and obj
 
  <p align="center"> 
   Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/erabhishekmittal/count.svg" />
+  <img src="https://profile-counter.glitch.me/abhishekmittall/count.svg" />
 </p>
