@@ -56,16 +56,16 @@ I've all abilities and thinking to produce software that meets all goals and obj
 
 ### Contact Me
 <p align = "center">
-  <a href="https://github.com/erabhishekmittal">
+  <a href="https://github.com/abhishekmittall">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
   <a href="https://www.facebook.com/Abhishekbxn/">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
   </a>
-  <a href="https://www.instagram.com/_er.abhishek/">
+  <a href="https://www.instagram.com/abhi.mittall/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhishekbxn/">
+  <a href="https://www.linkedin.com/in/abhishekmittall/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
   <a href="https://twitter.com/_erabhishek">
