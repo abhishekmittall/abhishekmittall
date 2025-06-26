@@ -37,9 +37,7 @@
 
 ### 👨‍🎓 About Me
 
-**I'm pursuing B.Tech in Computer Science Engineering from JECRC Foundation. I always try to do something new. I love to explore my field and dream to make my career in IT industry.
-I am highly passionate about learning new things, optimistic in nature, and fully enthusiastic to utilize my analytical and problem-solving skills to growth of organization. Adaptable to any situation and capable of delivering fruitful results. Willing to innovate new things which can improve the existing technologies.
-I've all abilities and thinking to produce software that meets all goals and objectives outlined by the customer.**
+**Goal-oriented Software Engineer dedicated to developing scalable and efficient applications. Committed to innovation, problem-solving, and continuous growth to deliver impactful technology solutions.**
 
 ### ⚙️ GitHub Analytics
 
