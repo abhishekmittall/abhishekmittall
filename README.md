@@ -1,17 +1,15 @@
 ## Hi, I'm Abhishek Mittal 👋
-<b>I am Computer Science Engineering Student.</b>
+<b>Software Engineer</b>
 
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekmittall.abhishekmittall)
 ![GitHub followers](https://img.shields.io/github/followers/abhishekmittall)
 ![GitHub User's stars](https://img.shields.io/github/stars/abhishekmittall)
 
 - 👋 Hi, I'm Abhishek Mittal.
-- 🌱 I am still learning.
-- 💻 **Programming -** I used to work on C, C++ and Python.
-- 👨‍💻 **Web Development -** 
-- **Front-end Technology** - HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, jQuery (JavaScript Library for GUI - React.js)
-- **Back-end Technology** - Node.js, Express.js.
-- **Database** - mongoDB, MySQL.
+- 🌱 I am a Software Developer.
+- 💻 **Programming Languages -** HTML5, CSS3, SCSS, JavaScript, TypeScript, SQL
+- **Frameworks & Libraries** - ReactJS, React Native, Next.js, Redux, React Query (TanStack Query), RxJS, Tailwind CSS, Bootstrap, Angular, Node.js, Express.js, Apollo Client (GraphQL)
+- **Testing Tools** - Jest, React Testing Library
+- 👨‍💻 **Developer Tools & Platforms -** VS Code, Android Studio, Xcode, Git, Github, Bitbucket, Jira, Postman, Firebase, Flipper, Sentry, Figma
 - 🥅 Future goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I need Music 🎵 while Coding...
 - 🇮🇳 Proudly Indian
