@@ -1,83 +1,116 @@
-## Hi, I'm Abhishek Mittal 👋
-<b>Software Engineer</b>
+# Hi there, I'm Abhishek Mittal 👋
 
-![GitHub followers](https://img.shields.io/github/followers/abhishekmittall)
-![GitHub User's stars](https://img.shields.io/github/stars/abhishekmittall)
+<h3>Senior Software Engineer | React • React Native • Next.js • FinTech • AI</h3>
 
-- 👋 Hi, I'm Abhishek Mittal.
-- 🌱 I am a Software Developer.
-- 💻 **Programming Languages -** HTML5, CSS3, SCSS, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries** - ReactJS, React Native, Next.js, Redux, React Query (TanStack Query), RxJS, Tailwind CSS, Bootstrap, Angular, Node.js, Express.js, Apollo Client (GraphQL)
-- **Testing Tools** - Jest, React Testing Library
-- 👨‍💻 **Developer Tools & Platforms -** VS Code, Android Studio, Xcode, Git, Github, Bitbucket, Jira, Postman, Firebase, Flipper, Sentry, Figma
-- 🥅 Future goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I need Music 🎵 while Coding...
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abhishekmittall&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/abhishekmittall?style=social" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** with **3+ years of experience** building scalable mobile and web applications.
+
+I specialize in developing **React**, **React Native**, and **Next.js** applications with expertise in real-time systems, API integrations, and performance optimization. I enjoy building clean, scalable, and user-centric products across FinTech, AI, and consumer domains.
+
+- 🌱 Currently exploring **AI integrations & scalable system design**
+- 💡 Passionate about building high-quality products
+- ⚡ Love writing clean, reusable, and maintainable code
+- 🎵 Music keeps me productive while coding
 - 🇮🇳 Proudly Indian
 
-### 🛠 Languages and Tools
+---
 
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
+# 🛠 Tech Stack
 
-### 👨‍🎓 About Me
+### Frontend
 
-**Goal-oriented Software Engineer dedicated to developing scalable and efficient applications. Committed to innovation, problem-solving, and continuous growth to deliver impactful technology solutions.**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 
-### ⚙️ GitHub Analytics
+### Backend
 
-![Abhishek Mittal's Stats](https://github-readme-stats.vercel.app/api?username=abhishekmittall&show_icons=true&theme=light)
-![Abhishek Mittal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmittall)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
-### My Contacts
-**Gmail:** Abhishekbxn@gmail.com
+### APIs & Database
 
-[![Gmail Badge](https://img.shields.io/badge/-Abhishekbxn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekbxn@gmail.com)](mailto:Abhishekbxn@gmail.com)&emsp;
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### Contact Me
-<p align = "center">
-  <a href="https://github.com/abhishekmittall">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
-  </a>
-  <a href="https://www.facebook.com/Abhishekbxn/">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
-  </a>
-  <a href="https://www.instagram.com/abhi.mittall/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhishekmittall/">
-    <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
-  </a>
-  <a href="https://twitter.com/_erabhishek">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
-  </a>
-  <a href="mailto:Abhishekbxn@gmail.com/">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
-  </a>
-  <a href="https://www.qwiklabs.com/public_profiles/82c6b5a9-d156-4ac5-955b-de71a22d6f80">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
-  </a>
-  <a href="https://www.hackerrank.com/abhishekmittal_1">
-    <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
-  </a>
+### Mobile & Analytics
+
+- Firebase (FCM, Remote Config, App Distribution)
+- CleverTap
+- AppsFlyer
+- Microsoft Clarity
+- Meta Pixel SDK
+- CodePush OTA Updates
+
+### Testing
+
+- Jest
+- React Testing Library
+
+### AI Tools
+
+- Claude Code
+- Cursor AI
+- ChatGPT
+- Gemini
+
+### Developer Tools
+
+- VS Code
+- Android Studio
+- Xcode
+- Git
+- GitHub
+- Bitbucket
+- Jira
+- Postman
+- Flipper
+- Sentry
+- Figma
+- AWS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekmittall&show_icons=true&theme=github_light"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmittall&layout=compact&theme=github_light"/>
 </p>
 
- <p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/abhishekmittall/count.svg" />
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/abhishekmittall"><img src="https://img.icons8.com/fluency/48/github.png"/></a>
+<a href="https://www.linkedin.com/in/abhishekmittall"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="https://twitter.com/_erabhishek"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
+<a href="https://www.instagram.com/abhi.mittall/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
+<a href="mailto:abhishekbxn@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
+
+📧 **Email:** abhishekbxn@gmail.com
+
+📍 **Jaipur, Rajasthan, India**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on exciting projects.*
